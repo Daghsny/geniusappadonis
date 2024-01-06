@@ -1,5 +1,6 @@
 <h1>.env</h1>
 PORT=3333
+<br>
 HOST=0.0.0.0
 NODE_ENV=development
 APP_KEY=OkQRt2P0ae8KPET-4Q-prUpd5NdE6K1S
